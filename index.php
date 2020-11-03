@@ -85,7 +85,7 @@
                         $phone = $_POST["phone"];
                         $email = $_POST["email"];
                         $message = $_POST["message"];
-                        $to_email = "shlooby07@gmail.com";
+                        $to_email = "";
                         $subject = "New Contact Us Message";
                         $headers = "From: Contact@portfolio.com\r\n";
                         $contactus = "
